@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pertemuan 6</string>
+    <string name="activity_launch">Activity baru</string>
+    <string name="maps_launch">Buka maps</string>
+    <string name="market_launch">Buka market</string>
+    <string name="send_mail">Buka mail</string>
+    <string name="make_toast">Buat toast</string>
+    <string name="new_activity">This is a new activity</string>
+</resources>
